@@ -1,0 +1,5 @@
+# Install from GitHub
+git+https://github.com/Scorpio1987/odds-api-client.git
+
+# Or if installed locally:
+# odds-api-client
